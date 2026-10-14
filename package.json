@@ -1,0 +1,10 @@
+{
+  "name": "shopkart-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "server": "npm run dev --prefix \"Lab - 01/server\""
+  }
+}
