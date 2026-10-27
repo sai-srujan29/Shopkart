@@ -6,9 +6,9 @@ A modern, full-stack e-commerce web application built with **React**, **Node.js*
 
 ## 🚀 Features
 
-- 🔐 **User Authentication** — Register, Login with JWT-based auth & bcrypt password hashing
-- 🛍️ **Product Browsing** — Browse and search through products with detailed views
-- 🛒 **Shopping Cart** — Add/remove products, manage quantities
+- 🔐 **User Authentication** — Register, Login with JWT-based auth & bcrypt password hashing.
+- 🛍️ **Product Browsing** — Browse and search through products with detailed views.
+- 🛒 **Shopping Cart** — Add/remove products, manage quantities.
 - ❤️ **Wishlist** — Save favorite products for later
 - 📦 **Order Management** — Place orders and track order history
 - 💳 **Payment Integration** — Secure payments via **Razorpay**
